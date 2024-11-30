@@ -1,1 +1,1 @@
-# Advanced_churn_prediction
+# Advanced_churn_model
